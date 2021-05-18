@@ -1,7 +1,4 @@
 # Car Simulator / Traffic Simulator
-<p align="center">
-<img alt="Main Screen" src="https://github.com/01richardrs/Car-Simulator/blob/master/Screenshot/MainScreen.png">
-</p>
 More Pictures and Video Preview provided below.
 
 This Applications is used for Marking Purpose for subject CP2406 Programming III .
@@ -21,11 +18,5 @@ This Application Contains Features to make random Vehicles Simulator with Traffi
 - Load Road
 - Start / Stop Simulaton
 
-# Video Preview :
-Video Preview Link : https://github.com/01richardrs/Uttility-App/blob/master/Videopreview/UttilityApp.mp4
-
 # Screen Preview :
-<p align="center">
-<img alt="Simulation Screen" src="https://github.com/01richardrs/Car-Simulator/blob/master/Screenshot/Simulation%20in%20Default%20City.png">
-</p>
 More Screen Preveiw can be seen in Screenshot Folder.
